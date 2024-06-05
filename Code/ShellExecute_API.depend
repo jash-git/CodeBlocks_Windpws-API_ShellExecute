@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1717554170 source:c:\users\devel\desktop\shellexecute_api\main.c
+	<stdlib.h>
+	<windows.h>
+
